@@ -1,6 +1,7 @@
 package eed.tests.clases;
 
 public class Operaciones {
+	// son operaciones
 	public int sumar(int sumando1, int sumando2) {
 		return(sumando1+sumando2);
 	}
